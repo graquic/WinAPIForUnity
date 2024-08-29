@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinAPIForUnity", "WinAPIForUnity.vcxproj", "{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinAPISources", "..\WinAPISources\WinAPISources.vcxitems", "{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Debug|x64.ActiveCfg = Debug|x64
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Debug|x64.Build.0 = Debug|x64
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Debug|x86.Build.0 = Debug|Win32
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Release|x64.ActiveCfg = Release|x64
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Release|x64.Build.0 = Release|x64
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Release|x86.ActiveCfg = Release|Win32
+		{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD0BBD5-3D6E-4ACE-B660-079161E3A433}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\WinAPISources\WinAPISources.vcxitems*{45b00d8b-67da-4985-a77e-3233efda6cde}*SharedItemsImports = 4
+		..\WinAPISources\WinAPISources.vcxitems*{fb4bf28b-0624-45e7-b8c2-5d95a08c1ecf}*SharedItemsImports = 9
+	EndGlobalSection
+EndGlobal
