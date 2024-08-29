@@ -1,0 +1,4 @@
+﻿  WFUApps.cpp
+C:\Users\khjon\source\repos\WinAPISources\WFUApps.cpp(30,23): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\khjon\source\repos\WinAPISources\WFUApps.cpp(30,30): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  WinAPIForUnity.vcxproj -> C:\Users\khjon\source\repos\WinAPIForUnity\x64\Debug\WinAPIForUnity.exe
