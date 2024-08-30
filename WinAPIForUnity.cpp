@@ -5,6 +5,7 @@
 #include "WinAPIForUnity.h"
 
 #include "..//WinAPISources/WFUApps.h"
+#include "LoadScene.h"
 
 Unity::Application application;
 
@@ -137,6 +138,8 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
    ShowWindow(hWnd, nCmdShow);
    UpdateWindow(hWnd);
+
+   Unity::LoadScenes();
 
    return TRUE;
 }
