@@ -1,2 +1,19 @@
-﻿  SceneManager.cpp
+﻿  Entity.cpp
+  GameObject.cpp
+C:\Users\khjon\source\repos\WinAPISources\GameObject.cpp(44,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khjon\source\repos\WinAPISources\GameObject.cpp(44,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khjon\source\repos\WinAPISources\GameObject.cpp(44,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khjon\source\repos\WinAPISources\GameObject.cpp(44,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Input.cpp
+  LoadScene.cpp
+  PlayScene.cpp
+  Scene.cpp
+  SceneManager.cpp
+  Time.cpp
+C:\Users\khjon\source\repos\WinAPISources\Time.cpp(41,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WFUApps.cpp
+C:\Users\khjon\source\repos\WinAPISources\WFUApps.cpp(49,23): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\khjon\source\repos\WinAPISources\WFUApps.cpp(49,30): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  WinAPIForUnity.cpp
+  코드를 생성하고 있습니다...
   WinAPIForUnity.vcxproj -> C:\Users\khjon\source\repos\WinAPIForUnity\x64\Debug\WinAPIForUnity.exe

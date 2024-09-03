@@ -3,26 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\khjon\\source\\repos\\WinAPIForUnity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\WFUApps.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UM\\GDIPLUS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPIForUnity\\WinAPIForUnity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|solutionrelative:WinAPIForUnity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -35,12 +50,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\WFUApps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45B00D8B-67DA-4985-A77E-3233EFDA6CDE}|WinAPIForUnity.vcxproj|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB4BF28B-0624-45E7-B8C2-5D95A08C1ECF}|..\\WinAPISources\\WinAPISources.vcxitems|C:\\Users\\khjon\\source\\repos\\WinAPISources\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -68,24 +77,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Component.h",
+              "RelativeDocumentMoniker": "..\\WinAPISources\\Component.h",
+              "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Component.h",
+              "RelativeToolTip": "..\\WinAPISources\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T17:13:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transform.h",
+              "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Transform.h",
+              "RelativeDocumentMoniker": "..\\WinAPISources\\Transform.h",
+              "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Transform.h",
+              "RelativeToolTip": "..\\WinAPISources\\Transform.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T17:13:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gdiplus.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\gdiplus.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\gdiplus.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\gdiplus.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\gdiplus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T17:03:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PlayScene.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\PlayScene.cpp",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.cpp",
               "RelativeToolTip": "..\\WinAPISources\\PlayScene.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-30T17:50:53.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LoadScene.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\LoadScene.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\LoadScene.cpp",
@@ -93,25 +141,24 @@
               "RelativeToolTip": "..\\WinAPISources\\LoadScene.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-30T18:11:56.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T18:11:56.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Scene.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Scene.cpp",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.cpp",
               "RelativeToolTip": "..\\WinAPISources\\Scene.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAALAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-30T13:03:02.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Scene.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Scene.h",
@@ -124,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WFUApps.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\WFUApps.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\WFUApps.cpp",
@@ -132,25 +179,24 @@
               "RelativeToolTip": "..\\WinAPISources\\WFUApps.cpp",
               "ViewState": "AQIAACwAAAAAAAAAAAAqwCsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-28T16:03:15.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T16:03:15.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "CommonInclude.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\CommonInclude.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\CommonInclude.h",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\CommonInclude.h",
               "RelativeToolTip": "..\\WinAPISources\\CommonInclude.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-28T16:29:15.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WFUApps.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\WFUApps.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\WFUApps.h",
@@ -163,46 +209,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "WinAPIForUnity.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPIForUnity\\WinAPIForUnity.cpp",
               "RelativeDocumentMoniker": "WinAPIForUnity.cpp",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPIForUnity\\WinAPIForUnity.cpp",
               "RelativeToolTip": "WinAPIForUnity.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAIsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-28T14:36:39.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameObject.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\GameObject.cpp",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.cpp",
               "RelativeToolTip": "..\\WinAPISources\\GameObject.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-28T17:52:52.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "GameObject.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\GameObject.h",
               "ToolTip": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\GameObject.h",
               "RelativeToolTip": "..\\WinAPISources\\GameObject.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-28T17:52:18.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\SceneManager.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\SceneManager.cpp",
@@ -210,12 +256,11 @@
               "RelativeToolTip": "..\\WinAPISources\\SceneManager.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-30T13:18:13.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T13:18:13.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PlayScene.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\PlayScene.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\PlayScene.h",
@@ -223,12 +268,11 @@
               "RelativeToolTip": "..\\WinAPISources\\PlayScene.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-30T17:34:45.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T17:34:45.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "SceneManager.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\SceneManager.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\SceneManager.h",
@@ -236,12 +280,11 @@
               "RelativeToolTip": "..\\WinAPISources\\SceneManager.h",
               "ViewState": "AQIAABAAAAAAAAAAAAAqwBgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-30T17:36:18.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T17:36:18.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Entity.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Entity.h",
@@ -249,12 +292,11 @@
               "RelativeToolTip": "..\\WinAPISources\\Entity.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-30T11:55:15.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T11:55:15.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Entity.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Entity.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Entity.cpp",
@@ -262,12 +304,11 @@
               "RelativeToolTip": "..\\WinAPISources\\Entity.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-30T12:55:25.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T12:55:25.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Input.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Input.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Input.h",
@@ -275,12 +316,11 @@
               "RelativeToolTip": "..\\WinAPISources\\Input.h",
               "ViewState": "AQIAAAwAAAAAAAAAAIBJwCcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-29T11:28:34.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T11:28:34.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Input.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Input.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Input.cpp",
@@ -288,12 +328,11 @@
               "RelativeToolTip": "..\\WinAPISources\\Input.cpp",
               "ViewState": "AQIAAA4AAAAAAAAAAEBVwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-29T12:01:58.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T12:01:58.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Time.h",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Time.h",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Time.h",
@@ -301,12 +340,11 @@
               "RelativeToolTip": "..\\WinAPISources\\Time.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-29T15:56:34.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T15:56:34.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Time.cpp",
               "DocumentMoniker": "C:\\Users\\khjon\\source\\repos\\WinAPISources\\Time.cpp",
               "RelativeDocumentMoniker": "..\\WinAPISources\\Time.cpp",
@@ -314,8 +352,7 @@
               "RelativeToolTip": "..\\WinAPISources\\Time.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-29T16:04:20.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T16:04:20.913Z"
             }
           ]
         }
